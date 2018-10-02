@@ -1,1 +1,1 @@
-# Almacenamiendo de fuentes a utilizar
+# Almacenador de fuentes
